@@ -1,0 +1,31 @@
+
+
+.letra{
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+i{
+    text-align: left;
+}
+
+.izquierda{
+    text-align: left;
+}
+
+img{
+    width: 100%;
+}
+
+.tamaño {
+    width: 10%;
+    height: 10%;
+}
+
+.tamañoImagen
+{
+    height: 20%;
+    
+}
+
